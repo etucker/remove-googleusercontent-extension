@@ -12,10 +12,9 @@ This extension will alter the URL of the image to be the original URL:
 https://tumblrmarketingp2.files.wordpress.com/2022/09/screen-shot-2022-09-12-at-12.22.57-pm.png?w=1024
 
 ## Reference documentation
-1. [Getting started with Chrome Extenstions][https://developer.chrome.com/docs/extensions/mv3/getstarted/]
-1. [How to inject with static declarations][https://developer.chrome.com/docs/extensions/mv3/content_scripts/#static-declarative]
-1. [Getting the timing of a Gmail Chrome extension content script just right][https://www.gmass.co/blog/timing-gmail-chrome-extension-content-script/]
+1. [Getting started with Chrome Extenstions](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
+1. [How to inject with static declarations](https://developer.chrome.com/docs/extensions/mv3/content_scripts/#static-declarative)
+1. [Getting the timing of a Gmail Chrome extension content script just right](https://www.gmass.co/blog/timing-gmail-chrome-extension-content-script/)
 
 ## Eli's notes
 * Email to test with: https://mail.google.com/mail/u/0/?zx=sqbv1jbd2shd#starred/FMfcgzGqQSRKZqqgzQClPPjBZfkSxmJK 
-* 
