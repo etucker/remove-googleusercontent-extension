@@ -1,0 +1,14 @@
+{
+    "name": "Remove googleusercontent proxy",
+    "description": "Removes the proxy gmail adds for loading images for URLs that match a given regular expression",
+    "version": "0.1",
+    "manifest_version": 3,
+    "permissions": ["storage"],
+    "content_scripts": [
+        {
+            "matches": ["https://mail.google.com/mail/*"],
+            "run_at": "document_idle",
+            "js": ["contentScript.js"]
+        }
+    ]
+}
