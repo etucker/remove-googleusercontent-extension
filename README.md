@@ -11,6 +11,13 @@ This extension will alter the URL of the image to be the original URL:
 
 https://tumblrmarketingp2.files.wordpress.com/2022/09/screen-shot-2022-09-12-at-12.22.57-pm.png?w=1024
 
+## Installation Instructions
+1. Download/clone this repository.
+2. Open Chrome, head to the menu (the kebab/horizontal ...), then `Extensions`.
+3. Turn on `Developer mode` in the top right.
+4. Hit the `Load unpacked` button in the top left.
+5. Select the folder you put these files in.
+
 ## Reference documentation
 1. [Getting started with Chrome Extenstions](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
 1. [How to inject with static declarations](https://developer.chrome.com/docs/extensions/mv3/content_scripts/#static-declarative)
