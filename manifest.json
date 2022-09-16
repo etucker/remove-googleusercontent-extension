@@ -7,7 +7,7 @@
     "content_scripts": [
         {
             "matches": ["https://mail.google.com/mail/*"],
-            "run_at": "document_idle",
+            "run_at": "document_start",
             "js": ["contentScript.js"]
         }
     ]
