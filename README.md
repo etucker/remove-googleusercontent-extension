@@ -13,7 +13,7 @@ https://tumblrmarketingp2.files.wordpress.com/2022/09/screen-shot-2022-09-12-at-
 
 ## Installation Instructions
 1. Download/clone this repository.
-2. Open Chrome, head to the menu (the kebab/horizontal ...), then `Extensions`.
+2. Open Chrome, head to the menu (the kebab/horizontal ...), `More Tools`, then `Extensions`.
 3. Turn on `Developer mode` in the top right.
 4. Hit the `Load unpacked` button in the top left.
 5. Select the folder you put these files in.
@@ -22,6 +22,9 @@ https://tumblrmarketingp2.files.wordpress.com/2022/09/screen-shot-2022-09-12-at-
 1. [Getting started with Chrome Extenstions](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
 1. [How to inject with static declarations](https://developer.chrome.com/docs/extensions/mv3/content_scripts/#static-declarative)
 1. [Getting the timing of a Gmail Chrome extension content script just right](https://www.gmass.co/blog/timing-gmail-chrome-extension-content-script/)
+1. [Real world examples of MutationObserver](https://eager.io/blog/three-real-world-use-cases-for-mutation-observer/) and [some code](https://github.com/cloudflare-apps/FireSize/blob/master/source/app.js)
+1. [Another strategy for handling this issue, if this doesn't work](https://stackoverflow.com/questions/30590428/chrome-extension-how-to-intercept-requested-urls)
 
 ## Eli's notes
 * Email to test with: https://mail.google.com/mail/u/0/?zx=sqbv1jbd2shd#starred/FMfcgzGqQSRKZqqgzQClPPjBZfkSxmJK 
+* Labeled email to test with: https://mail.google.com/mail/u/0/?zx=sqbv1jbd2shd#label/temp-chrome-ext 
